@@ -1,8 +1,6 @@
 # AutoRSS
 
 Automatically generate RSS feeds from various sources.
-=======
-Automatically generate RSS feeds from various sources.
 
 ## Overview
 
