@@ -30,6 +30,8 @@ def main():
     parser = argparse.ArgumentParser(description="Generate RSS feed from various sources")
     parser.add_argument("-s", "--source", choices=["github", "infoq", "all"], 
                        default="github", help="Data source to use")
+    parser.add_argument("-o", "--output", default=".", 
+                       help="Output directory for RSS files")
     args = parser.parse_args()
     
     # Process each data source separately
@@ -42,7 +44,10 @@ def main():
             rss_feed = rss_gen.generate(items)
             
             # Save RSS to file
-            with open(output_file, "w", encoding="utf-8") as f:
+            import os
+            output_path = os.path.join(args.output, output_file)
+            os.makedirs(args.output, exist_ok=True)
+            with open(output_path, "w", encoding="utf-8") as f:
                 f.write(rss_feed)
             
             print(f"Successfully generated {output_file}")
