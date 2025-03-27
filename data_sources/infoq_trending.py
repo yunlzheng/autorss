@@ -99,7 +99,7 @@ class InfoQTrending(DataSource):
             
             items.append({
                 'title': title.text.strip(),
-                'link': "https://www.infoq.cn" + link['href'],
+                'link': link['href'],
                 'description': description.text.strip() if description else '',
                 'pub_date': pub_date
             })
