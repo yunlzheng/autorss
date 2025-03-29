@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 29 Mar 2025 01:41:45 GMT</lastBuildDate>
+    <item>
+      <title>抖音算法工程师王宁确认出席 QCon 北京，分享智能运维知识库构建经验</title>
+      <link>https://www.infoq.cn/article/1gItcSt752jPwMiwtrr3</link>
+      <description>通过创新的知识沉淀、学习、生成与更新机制，将私域知识与 LLM 深度融合，构建更加智能和自主的运维系统。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>鸿蒙系统到底行不行，我们问了几位开发者的真实感受</title>
+      <link>https://www.infoq.cn/article/584FIdOfFujXPh3sYKV8</link>
+      <description>前几天，华为开了场发布会，除了发布新品外，还顺道官宣了两个重磅消息。
+首款鸿蒙 PC ，就在今年 5 月，以及本次发布的手机全面搭载 HarmonyOS 5。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 驱动的智能异常处置：从异常发现到根因定位｜QCon 北京</title>
+      <link>https://www.infoq.cn/article/4PPLeMYTg3kWYAU9smsX</link>
+      <description>平台本身的复杂度以及海量的多元异构数据给异常处置带来了巨大的挑战。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>实时通信的下一站，H.266 作为破局关键</title>
+      <link>https://www.infoq.cn/article/kE3B2RNL6gBrQLTWWpS9</link>
+      <description>实时通信（RTC）作为支撑实时音视频交互的核心技术，近十年来已深度渗透至视频会议、直播连麦、在线教育及远程协作等多个场景。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>凌晨“激战”！谷歌亮相新模型，OpenAI 紧急甩出 GPT-4o 动动嘴就能 P 图，网友：又要感谢 DeepSeek 了</title>
+      <link>https://www.infoq.cn/article/L4LMhG65UG2HUfyoRiek</link>
+      <description>谷歌发布了号称最强推理模型的 Gemini Pro 2.5。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 9B 参数做推理？任度双脑深度思考大模型 T1 发布，创始人：和大厂 PK 的底气来自“根原创”</title>
+      <link>https://www.infoq.cn/article/ZENrasqeRQKuHeXqsZfW</link>
+      <description>“基于数推分离架构，任度大模型 -T1 实现了“双脑”联合推理，以仅 9B 的小参数规模实现了大智能，性能可媲美参数量为其几十倍，甚至一两百倍的大模型。”</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>引发 AI 热潮的原始代码开源了！Hinton 靠它获的诺奖，Ilya、Krizhevsky、李飞飞都有大贡献</title>
+      <link>https://www.infoq.cn/article/jstFRQ6pLXmsG4qQqIJb</link>
+      <description>谷歌与 CHM 发布 2012 年掀起技术浪潮的 AlexNet 代码，“深度学习”的可行性由此得到证明。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 赋能小米空调：基于深度强化学习的运行节能技术 ｜QCon 北京</title>
+      <link>https://www.infoq.cn/article/mtHzZ28ddHR6BUDxs5w1</link>
+      <description>小米空调在相同硬件设备和工况下可实现 20%~40% 的节能。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>画质之外，直播编码还应当关注哪些技术优化点</title>
+      <link>https://www.infoq.cn/article/saMHS3k1ZLQxgA4q2oX0</link>
+      <description>随着直播行业用户基数趋于饱和，市场竞争已从早期的流量争夺转向精细质量比拼。等高阶指标转移。年直播技术趋势》显示，视频质量被广泛认为是直播平台用户体验的核心因素，直播行业正在转向更高分辨率和帧率；而在实时互动直播中，低延迟能显著提升观众参与度。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>突破算法评测困境：饿了么即时配送算法评测与优化实践 ｜QCon 北京</title>
+      <link>https://www.infoq.cn/article/QdDDOlJK2R4lMpYakYyl</link>
+      <description>由于算法的可解释性弱、线下评测难度大等问题，饿了么在算法评测领域进行了深入的探索和实践。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端框架新格局：从过去一年的演进看未来趋势</title>
+      <link>https://www.infoq.cn/article/Q7L3Pt0R86q805RCItkO</link>
+      <description>了解过去一年的技术趋势与意外变化，速览前端框架的重要更新。</description>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tim O’Reilly：AI 时代，程序员会比以往任何时候都多</title>
+      <link>https://www.infoq.cn/article/Jld9dCaEZFfAQle4rZwW</link>
+      <description>媒体上有很多传言称，软件开发人员的工作很快就会被人工智能抢走，但我并不这么认为。</description>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>端智能在即时物流场景的落地实践｜QCon 北京</title>
+      <link>https://www.infoq.cn/article/pKIlUwIvA6uB36Ls42wW</link>
+      <description>通过端智能的能力来准确的刻画出骑手实际的作业情景。</description>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 与不求甚解的新手开发者</title>
+      <link>https://www.infoq.cn/article/v1qH52OSFWXpzzubdCgv</link>
+      <description>未来的重点不在于我们是否使用 AI，而在于如何使用它。</description>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3 部分技术细节被扒；年薪达 945 万！80 后女副总裁首登福布斯；字节吴永辉亲自带实习生，取消季度 OKR | AI 周报</title>
+      <link>https://www.infoq.cn/news/s6aAlshouUp71TN2p1Qt</link>
+      <description>查看更多产业动态&gt;&gt;</description>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>云计算认证半价解锁！多重福利助力职场跃升！</title>
+      <link>https://www.infoq.cn/article/MMSs6Fvd4TDeYtr19Qif</link>
+      <description>从“已读不回”到简历“秒过初筛”，您差的可能只是一张全球云计算的职业通行证！随着云计算技术的快速发展和企业数字化转型的加速，云计算认证已成为职场竞争力的重要标志。</description>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 宣布采用竞对 Anthropic 协议，一夜将 MCP 送上热搜！Karpathy：赶紧歇了吧</title>
+      <link>https://www.infoq.cn/article/CjeY6p6J5AO6odNRmEid</link>
+      <description>人们谈论 MCP 是因为人们在谈论 MCP。</description>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>复杂业务场景下 AIGC 赋能安全运营的实践｜QCon 北京</title>
+      <link>https://www.infoq.cn/article/lSuZ9PO6Xai3O4m4vrFu</link>
+      <description>大模型在行业落地应用时遇到了推理残差能力不足、专业知识缺乏、反馈循环效率低和安全单点等问题。</description>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>多模态数据驱动的 RAG 增强实践｜QCon 北京</title>
+      <link>https://www.infoq.cn/article/czL183zVazTmiCDqlYwt</link>
+      <description>探讨多模态数据的向量化策略，深入剖析检索增强和生成增强的关键技术与解决方案。</description>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 SBOM 确保 Java 应用的供应链安全</title>
+      <link>https://www.infoq.cn/article/2Gg5mTG5HEXSWBuOxENv</link>
+      <description>本文介绍了软件物料清单 (SBOM) 的概念及其对软件供应链安全至关重要的原因。</description>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>前 Cruise CEO 新办的机器人公司，被曝再获巨额投资，估值已飙至 20 亿美元</title>
+      <link>https://www.infoq.cn/article/XvXS2xjG7jkq5ElMtIty</link>
+      <description>目前，该公司正致力于打造为机器人提供动力的硬件和基于人工智能的软件。</description>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>面壁智能 CTO 曾国洋确认出席 QCon 北京，分享迈向 AGI 的关键技术实践</title>
+      <link>https://www.infoq.cn/article/X1BOqT3Bjy5vLRe2FQO5</link>
+      <description>端侧模型的知识密度：迈向 AGI 的关键技术实践。</description>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越工具：AI 驱动内生型技术管理新范式 | QCon 北京</title>
+      <link>https://www.infoq.cn/article/z8QIbdIdx8XpQ1wJ6IN1</link>
+      <description>如何以开放务实的姿态迭代 AI 内生的新产品研发工作模式。</description>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>秒哒一出，代码全无！Manus：我先做个 PPT 压压惊</title>
+      <link>https://www.infoq.cn/article/9jyKKzXAwN0OaMmubRC5</link>
+      <description>开发周期相比传统开发缩短至万分之一。</description>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌没有闭源，但正把安卓变得“能看不能摸”</title>
+      <link>https://www.infoq.cn/article/cl7cXM5xEcfBOJevgeEf</link>
+      <description>当谷歌将开源简化为源代码的“单向透明”，Android 生态正在复刻开源里的一个经典悖论：开发者能看见每一行代码的轨迹，却触摸不到系统演进的方向盘。</description>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 时代的新编程范式：如何构建 AI 产品｜ QCon 北京</title>
+      <link>https://www.infoq.cn/article/Sm1iy3HyhC770jIKfNOZ</link>
+      <description>AI Native 产品与传统产品构建的极大不同，在于语义结构化。</description>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siri 跳票，库克震怒换帅！大佬锐评：苹果高层都是快 70 岁老头儿，该换懂 AI 的年轻人上了</title>
+      <link>https://www.infoq.cn/article/rmgwsc1kCXte1du0WL9U</link>
+      <description>苹果一直以严格的保密文化著称，而此次内部评价信息频频曝光，引发了外界诸多猜测。</description>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用友 iuap+DeepSeek，释放数智底座 AI 生命力</title>
+      <link>https://www.infoq.cn/article/sqTFGQZwJr23wxw3IVQ1</link>
+      <description>作为基座大模型的智能服务体系，这将降低算力成本，充分释放用友 iuap 作为企业数智化底座的 AI 生命力。</description>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>突发！智源被列入美国实体清单，50 余家中国企业又被“拉黑”</title>
+      <link>https://www.infoq.cn/article/A11jbTaxQTAqXCJI3DZh</link>
+      <description>预期将于 3 月 28 日生效。</description>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>李开复：超大模型预训练逐渐寡头化，国内将收敛至 DeepSeek、阿里、字节三家</title>
+      <link>https://www.infoq.cn/news/lrWRg1P4TMOzAdMXUNpB</link>
+      <description>美国则以 xAI 的发展势头最为迅速</description>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

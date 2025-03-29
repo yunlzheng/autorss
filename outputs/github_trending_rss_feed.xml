@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <description>Daily trending repositories on GitHub</description>
+    <link>https://github.com/trending</link>
+    <lastBuildDate>Sat, 29 Mar 2025 01:41:02 GMT</lastBuildDate>
+    <item>
+      <title>Shubhamsaboo/awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>NirDiamant/GenAI_Agents</title>
+      <link>https://github.com/NirDiamant/GenAI_Agents</link>
+      <description>This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>EFForg/rayhunter</title>
+      <link>https://github.com/EFForg/rayhunter</link>
+      <description>Rust tool to detect cell site simulators on an orbic mobile hotspot</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>khoj-ai/khoj</title>
+      <link>https://github.com/khoj-ai/khoj</link>
+      <description>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>ourongxing/newsnow</title>
+      <link>https://github.com/ourongxing/newsnow</link>
+      <description>Elegant reading of real-time and hottest news</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>juspay/hyperswitch</title>
+      <link>https://github.com/juspay/hyperswitch</link>
+      <description>An open source payments switch written in Rust to make payments fast, reliable and affordable</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>punkpeye/awesome-mcp-servers</title>
+      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
+      <description>A collection of MCP servers.</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>kern/filepizza</title>
+      <link>https://github.com/kern/filepizza</link>
+      <description>🍕 Peer-to-peer file transfers in your browser</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>alibaba/spring-ai-alibaba</title>
+      <link>https://github.com/alibaba/spring-ai-alibaba</link>
+      <description>Agentic AI Framework for Java Developers</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>cline/cline</title>
+      <link>https://github.com/cline/cline</link>
+      <description>Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>n8n-io/n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>Vim-fork focused on extensibility and usability</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>langgenius/dify</title>
+      <link>https://github.com/langgenius/dify</link>
+      <description>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>shadps4-emu/shadPS4</title>
+      <link>https://github.com/shadps4-emu/shadPS4</link>
+      <description>PlayStation 4 emulator for Windows, Linux and macOS written in C++</description>
+      <pubDate>Sat, 29 Mar 2025 01:41:02 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

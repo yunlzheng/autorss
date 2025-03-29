@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News</title>
+    <description>Top stories from Hacker News</description>
+    <link>https://news.ycombinator.com/</link>
+    <lastBuildDate>Sat, 29 Mar 2025 01:41:46 GMT</lastBuildDate>
+    <item>
+      <title>Is AI the new research scientist? Not so, according to a human-led study</title>
+      <link>https://news.warrington.ufl.edu/faculty-and-research/ai-research-scientist/</link>
+      <description>Is AI the new research scientist? Not so, according to a human-led study</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>We hacked Gemini's Python sandbox and leaked its source code (at least some)</title>
+      <link>https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/</link>
+      <description>We hacked Gemini's Python sandbox and leaked its source code (at least some)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>iCloud Mail has DNS misconfigured</title>
+      <link>https://www.mail-tester.com/test-p3tdhnk3o</link>
+      <description>iCloud Mail has DNS misconfigured</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Noise cancellation improves turn-taking for AI Voice Agents</title>
+      <link>https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/</link>
+      <description>Noise cancellation improves turn-taking for AI Voice Agents</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: An Almost Free, Open Source TURN Server</title>
+      <link>https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md</link>
+      <description>Show HN: An Almost Free, Open Source TURN Server</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Xee: A Modern XPath and XSLT Engine in Rust</title>
+      <link>https://blog.startifact.com/posts/xee/</link>
+      <description>Xee: A Modern XPath and XSLT Engine in Rust</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>DIY PTP Grandmaster Clock with a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi</link>
+      <description>DIY PTP Grandmaster Clock with a Raspberry Pi</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Digital Echoes and Unquiet Minds</title>
+      <link>https://www.chrbutler.com/digital-echoes-and-unquiet-minds</link>
+      <description>Digital Echoes and Unquiet Minds</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>xAI has acquired X, xAI now valued at $80B</title>
+      <link>https://twitter.com/elonmusk/status/1905731750275510312</link>
+      <description>xAI has acquired X, xAI now valued at $80B</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>NSA F9T53 Opsec Special Bulletin: Signal Vulnerability</title>
+      <link>https://www.scribd.com/document/843124910/NSA-full</link>
+      <description>NSA F9T53 Opsec Special Bulletin: Signal Vulnerability</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: Multi UPS SNMP based shutdown</title>
+      <link>https://nupst.serve.zone</link>
+      <description>Show HN: Multi UPS SNMP based shutdown</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>How Kerala got rich</title>
+      <link>https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states</link>
+      <description>How Kerala got rich</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>How to write blog posts that developers read</title>
+      <link>https://refactoringenglish.com/chapters/write-blog-posts-developers-read/</link>
+      <description>How to write blog posts that developers read</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Finley (YC W21) Is Hiring a Technical Implementations Specialist</title>
+      <link>https://ats.rippling.com/finley-technologies/jobs</link>
+      <description>Finley (YC W21) Is Hiring a Technical Implementations Specialist</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Testing Without Mocks: A Pattern Language (2023)</title>
+      <link>https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks</link>
+      <description>Testing Without Mocks: A Pattern Language (2023)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Optimizing Matrix Multiplication on RDNA3</title>
+      <link>https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html</link>
+      <description>Optimizing Matrix Multiplication on RDNA3</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: Hexi – Modern header-only network binary serialisation for C++</title>
+      <link>https://github.com/EmberEmu/Hexi</link>
+      <description>Show HN: Hexi – Modern header-only network binary serialisation for C++</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Decomposing a Factorial into Large Factors</title>
+      <link>https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/</link>
+      <description>Decomposing a Factorial into Large Factors</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The Real Book (2021)</title>
+      <link>https://99percentinvisible.org/episode/the-real-book/</link>
+      <description>The Real Book (2021)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The Art of DJing: Avalon Emerson (2019)</title>
+      <link>https://it.ra.co/features/3392</link>
+      <description>The Art of DJing: Avalon Emerson (2019)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Building a modern durable execution engine from first principles</title>
+      <link>https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/</link>
+      <description>Building a modern durable execution engine from first principles</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Plasmonic Modulators Can Break the Wireless Terahertz Barrier</title>
+      <link>https://spectrum.ieee.org/terahertz-waves-2671362433</link>
+      <description>Plasmonic Modulators Can Break the Wireless Terahertz Barrier</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>I asked police to send me their public surveillance footage of my car</title>
+      <link>https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/</link>
+      <description>I asked police to send me their public surveillance footage of my car</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Swiftly 1.0</title>
+      <link>https://swift.org/blog/introducing-swiftly_10/</link>
+      <description>Swiftly 1.0</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>SignalBotOne – Notification Webhooks for Signal</title>
+      <link>https://signalbot.one/</link>
+      <description>SignalBotOne – Notification Webhooks for Signal</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Ask HN: can Wireless-CarPlay dongles steal your data?</title>
+      <link>item?id=43470337</link>
+      <description>Ask HN: can Wireless-CarPlay dongles steal your data?</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Superhyperbola</title>
+      <link>https://www.johndcook.com/blog/2025/03/27/superhyperbola/</link>
+      <description>Superhyperbola</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</title>
+      <link>https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl</link>
+      <description>Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Building Statically Linked Go Executables with CGO and Zig</title>
+      <link>https://calabro.io/zig-cgo</link>
+      <description>Building Statically Linked Go Executables with CGO and Zig</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The Biology of B-Movie Monsters (2003)</title>
+      <link>https://fathom.lib.uchicago.edu/2/21701757/</link>
+      <description>The Biology of B-Movie Monsters (2003)</description>
+      <pubDate/>
+    </item>
+  </channel>
+</rss>
