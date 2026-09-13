@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <description>Daily trending repositories on GitHub</description>
+    <link>https://github.com/trending</link>
+    <lastBuildDate>Sun, 13 Sep 2026 02:27:07 GMT</lastBuildDate>
+    <item>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <description>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>nab138/iloader</title>
+      <link>https://github.com/nab138/iloader</link>
+      <description>User friendly sideloader</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flowseal/zapret-discord-youtube</title>
+      <link>https://github.com/Flowseal/zapret-discord-youtube</link>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>jihe520/MathModelAgent</title>
+      <link>https://github.com/jihe520/MathModelAgent</link>
+      <description>🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonarr/Sonarr</title>
+      <link>https://github.com/Sonarr/Sonarr</link>
+      <description>Smart PVR for newsgroup and bittorrent users.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>yuliskov/SmartTube</title>
+      <link>https://github.com/yuliskov/SmartTube</link>
+      <description>Browse media content with your own rules on Android TV</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shubhamsaboo/awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>p1neappleXpress/OpenFlux</title>
+      <link>https://github.com/p1neappleXpress/OpenFlux</link>
+      <description>Network stack research tool. TCP tunnel with pluggable transports.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>armory3d/armorpaint</title>
+      <link>https://github.com/armory3d/armorpaint</link>
+      <description>Graphics Creation Tools</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>SnailSploit/Claude-Red</title>
+      <link>https://github.com/SnailSploit/Claude-Red</link>
+      <description>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>multimodal-art-projection/YuE</title>
+      <link>https://github.com/multimodal-art-projection/YuE</link>
+      <description>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>vxcontrol/pentagi</title>
+      <link>https://github.com/vxcontrol/pentagi</link>
+      <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+      <pubDate>Sun, 13 Sep 2026 02:27:07 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

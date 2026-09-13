@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News</title>
+    <description>Top stories from Hacker News</description>
+    <link>https://news.ycombinator.com/</link>
+    <lastBuildDate>Sun, 13 Sep 2026 02:27:13 GMT</lastBuildDate>
+    <item>
+      <title>Make your first edit to OpenStreetMap</title>
+      <link>https://high5apps.github.io/josm-plugin-website-wizard/</link>
+      <description>Make your first edit to OpenStreetMap</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases</title>
+      <link>https://withspecific.com/benchmarks/real-swe</link>
+      <description>Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Nvidia is the central bank of AI</title>
+      <link>https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</link>
+      <description>Nvidia is the central bank of AI</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Align AI and Mathematics–To Something Else</title>
+      <link>https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/</link>
+      <description>Align AI and Mathematics–To Something Else</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Apple iPod Engraver (2019)</title>
+      <link>https://dunstanorchard.com/apple-ipod-engraver/</link>
+      <description>Apple iPod Engraver (2019)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Recurrent Looped Transformer</title>
+      <link>https://yifanzhang-pro.github.io/recurrent-looped-tranformer/</link>
+      <description>Recurrent Looped Transformer</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Why are AI agents lying, cheating and coordinating?</title>
+      <link>https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</link>
+      <description>Why are AI agents lying, cheating and coordinating?</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Getting 50 GB/S Back from the Apple Neural Engine</title>
+      <link>https://eiln.github.io/posts/ane-dma.html</link>
+      <description>Getting 50 GB/S Back from the Apple Neural Engine</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Everyone should slow down AI development except for me</title>
+      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
+      <description>Everyone should slow down AI development except for me</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Stabilizing Rust's Never Type</title>
+      <link>https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/</link>
+      <description>Stabilizing Rust's Never Type</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>No Atlantic hurricanes by Sept. 12 breaks a 60-year record</title>
+      <link>https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278</link>
+      <description>No Atlantic hurricanes by Sept. 12 breaks a 60-year record</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Vintage Scientific Papers with LaTeX</title>
+      <link>https://github.com/Foadsf/vintage-latex</link>
+      <description>Vintage Scientific Papers with LaTeX</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>LG denies TV spying claims, says tracking and snooping concerns 'not true'</title>
+      <link>https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio</link>
+      <description>LG denies TV spying claims, says tracking and snooping concerns 'not true'</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>AgentsDock: An IDE designed for agentic AI research</title>
+      <link>https://agentsdock.net/</link>
+      <description>AgentsDock: An IDE designed for agentic AI research</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Don't be the out of touch Kung Fu master – John Carmack</title>
+      <link>https://twitter.com/ID_AA_Carmack/status/2098443262214230095</link>
+      <description>Don't be the out of touch Kung Fu master – John Carmack</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>We must pace the frontier</title>
+      <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
+      <description>We must pace the frontier</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Will There Be a 7G?</title>
+      <link>https://arxiv.org/abs/2609.01877</link>
+      <description>Will There Be a 7G?</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>I made a build visualizer to understand Bun's compile times</title>
+      <link>https://lalitm.com/post/buildprof/</link>
+      <description>I made a build visualizer to understand Bun's compile times</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Tree Calculus</title>
+      <link>https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2</link>
+      <description>Tree Calculus</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>From Git to Fossil</title>
+      <link>https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html</link>
+      <description>From Git to Fossil</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Microcode in Intel's 8087 floating-point chip: the scale instruction</title>
+      <link>https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</link>
+      <description>Microcode in Intel's 8087 floating-point chip: the scale instruction</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Linux Zoom client proactively reading everything written to X11 clipboard</title>
+      <link>https://hachyderm.io/@simontatham/117201594980991062</link>
+      <description>Linux Zoom client proactively reading everything written to X11 clipboard</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Android NAT-T keepalive offload bypasses VPN lockdown</title>
+      <link>https://supuk.ch/papers/android-natt-keepalive-vpn-bypass</link>
+      <description>Android NAT-T keepalive offload bypasses VPN lockdown</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>LG Says We're Fake News [video]</title>
+      <link>https://www.youtube.com/watch?v=ToP9xfLDSME</link>
+      <description>LG Says We're Fake News [video]</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>I fixed a tractor using John Deere's self-repair service. Farmers aren't sold</title>
+      <link>https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/</link>
+      <description>I fixed a tractor using John Deere's self-repair service. Farmers aren't sold</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>A Mathematical Framework for Transformer Circuits (2021)</title>
+      <link>https://transformer-circuits.pub/2021/framework/index.html</link>
+      <description>A Mathematical Framework for Transformer Circuits (2021)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>How Trail of Bits helps verify the integrity of Signal chats</title>
+      <link>https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/</link>
+      <description>How Trail of Bits helps verify the integrity of Signal chats</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <description>P(doom)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Eating Fruit Skins</title>
+      <link>https://pgadey.ca/blog/eating-fruit-skins/</link>
+      <description>Eating Fruit Skins</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: See Sounds on Your Webcam</title>
+      <link>https://soundmap.darebuild.com/</link>
+      <description>Show HN: See Sounds on Your Webcam</description>
+      <pubDate/>
+    </item>
+  </channel>
+</rss>

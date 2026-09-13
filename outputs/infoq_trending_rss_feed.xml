@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sun, 13 Sep 2026 02:27:13 GMT</lastBuildDate>
+    <item>
+      <title>推理成为新中心、Agent 把生产级问题提前：AI Infra 的边界正在被重写</title>
+      <link>https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV</link>
+      <description>AI 把云时代努力消除的“差异”又带回来了。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>破除人形崇拜！京东用“狼族”军团重做物理 AI</title>
+      <link>https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ</link>
+      <description>五大模型统筹异构机器人集群，实现非标分拣、日均亿级履约</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PayPal 谈 Agentic Commerce：AI 智能体将如何进入跨境支付场景？</title>
+      <link>https://www.infoq.cn/news/8t2vJHOc5srUyQqSlO9m</link>
+      <description>据 PayPal 介绍，公司正在将 AI 进一步融入交易、风控、资金调度等业务环节，希望把相关技术转化为商户可以直接使用的产品能力。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？</title>
+      <link>https://www.infoq.cn/article/uQvqV8VlMl5g8OqQKwDG</link>
+      <description>“FDE 这个名字未必会永远存在”</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文</title>
+      <link>https://www.infoq.cn/news/RCa5y6tvZXbjGKeLSGZt</link>
+      <description>9 月 8 日，Snowflake World Tour 全球巡演首次落地中国。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache</title>
+      <link>https://www.infoq.cn/news/sbaJrAa8VTIRKIPCpKlo</link>
+      <description>读取 Prompt 时实际参与计算的参数反而减少了。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”</title>
+      <link>https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP</link>
+      <description>调试 BLE 多点连接断开问题时，发现阿里巴巴网站使用音频指纹技术。</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池</title>
+      <link>https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE</link>
+      <description>微软扩容 Foundry 模型路由，默认配置自动更新模型池。</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 抄袭、威胁数学家？“AI 攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战</title>
+      <link>https://www.infoq.cn/news/Yv5sAmejcLyOYSSRdwI2</link>
+      <description>Codex 中的私人研究数据有没有被用于训练的问题，始终没回答</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FlexGanttFX 正式开源</title>
+      <link>https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8</link>
+      <description>Dirk Lemmerman 将开发 15 年的甘特图资源调度框架 FlexGanttFX 开源，此举旨在提高代码可用性，同时借助 AGPL 许可证保障项目维护。</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>14 岁上清华、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲</title>
+      <link>https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW</link>
+      <description>今天的大模型已经掌握了大量人类知识，但在真正的科学发现上仍然存在明显局限：大模型更擅长找到“最可能”的答案，而真正的新发现，往往藏在概率分布的长尾里。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺奖得主阿吉翁：AI 时代，比以往任何时候都更需要重视手工劳动和软技能</title>
+      <link>https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ</link>
+      <description>阿吉翁认为，生产率增速每年还可能额外提高至少约 0.4 个百分点，合计潜在提升约 1.08 个百分点。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统</title>
+      <link>https://www.infoq.cn/article/atCusTaSOmddUx1vvJba</link>
+      <description>“超时不是失败，是未知”，AI Agent 的分布式病如何破局？</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？</title>
+      <link>https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga</link>
+      <description>零信任不够用了？Google 发布 AI 时代安全模型 Beyond Zero。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 发布锐龙 AI Max PRO 400 系列，端侧智能体走向多模型协同</title>
+      <link>https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL</link>
+      <description>从技术路径看，锐龙 AI Max 系列试图解决端侧 AI 面临的一个直接问题：模型和上下文对内存、显存容量的需求持续增加，而传统 PC 的独立显存容量相对有限。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察</title>
+      <link>https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi</link>
+      <description>9 月 9 日，以“JoyAI·跃迁物理世界”为主题的 2026 京东全球科技探索者大会（JDD）在北京亦庄举行。相比过去几年 AI 行业对模型参数、推理能力和 Agent 的集中讨论，今年大会释放出的一个明显信号是：AI 正在从能做什么，走向怎么真正进入现实世界和业务系统。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来</title>
+      <link>https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV</link>
+      <description>Amazon 最近宣布推出 Kiro Crew，一款可以让多个 Kiro Coding Agent 跨 Session、工具和任务协同运行的开源系统。这个全新的工作区允许开发者把 Coding 任务交给 AI Agent 异步执行，这意味着即使开发者不在电脑前，事故调查、工单分诊、迁移以及 PR 监控等工作也可以继续进行，不需要人一直盯着。</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness</title>
+      <link>https://www.infoq.cn/article/38uc758e24YV4LUpAs77</link>
+      <description>唐刘从数据库的可靠性哲学出发，分享了 TiDB 在构建 Harness 过程中的一系列独特思考。</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化</title>
+      <link>https://www.infoq.cn/news/RLdCKyW7YNb8ybDKlQ5d</link>
+      <description>全球领先的数据公司正在重新定义自己在 Agent 时代的位置。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践</title>
+      <link>https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu</link>
+      <description>AI Coding 最近被频繁提起，但使用大模型辅助编程并不是刚刚发生的事情。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>传统企业 AI 转型的最短路径，藏在研发部门</title>
+      <link>https://www.infoq.cn/article/jrEuCFhtpA9LmGX60R1H</link>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？</title>
+      <link>https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu</link>
+      <description/>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话</title>
+      <link>https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7</link>
+      <description>刘震云说，AI“绝不是洪水猛兽”；马毅则提醒，真正需要改变的，不是人要不要使用 AI，而是人怎样重新理解学习和自己的价值。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站</title>
+      <link>https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj</link>
+      <description>Blume 将 Markdown 文件夹变成 AI 就绪网站的零配置文档框架。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“数据比模型重要”成了共识，接下来拼什么？</title>
+      <link>https://www.infoq.cn/news/sT7izVmjw1YVxh3FQyK8</link>
+      <description>模型这一层已经不是胜负手了，卡住企业的是下面那层数据，以及数据的含义。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>怒斥加密货币是旁氏骗局、放弃 80% 就业机会也不用 AI 写代码！Kotlin“J 神”：AI 会让工程师变成可替换的齿轮</title>
+      <link>https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM</link>
+      <description>最痛恨 AI 的技术大佬出现了。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Airbnb 采用服务端驱动架构，身份验证代码量减少 60%</title>
+      <link>https://www.infoq.cn/article/CKpxx7ZtuZ7wLJ1CqF0i</link>
+      <description>Airbnb 重新设计了其认证架构，使 Web、iOS 和 Android 端的登录流程更便于迭代调整。</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量</title>
+      <link>https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV</link>
+      <description>韩歆毅表示，智能体商业的“ChatGPT”时刻已经到来。</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp</link>
+      <description>Agent 进入生产环境后，随着用户量增长，线上 badcase 也会持续增加</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践</title>
+      <link>https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz</link>
+      <description>AI Coding 提速之后，稳定性成为“最后一公里”</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
