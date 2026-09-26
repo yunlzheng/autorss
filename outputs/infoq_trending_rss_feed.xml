@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 26 Sep 2026 02:52:49 GMT</lastBuildDate>
+    <item>
+      <title>Redis 之父质疑 Jev 狂热！绝大多数开发者其实不需要它</title>
+      <link>https://www.infoq.cn/article/POjWf9P5wCYjQaB39jD6</link>
+      <description>Redis 之父说：AI 泡沫中的多数人“分不清什么重要、什么不重要”。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践</title>
+      <link>https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5</link>
+      <description>如何通过确定性工程 + Agent 协同，将通用 Agent 收敛为适用于代码评审场景的垂直领域 Agent。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>智谱把 ZCode 开源了，然后呢？</title>
+      <link>https://www.infoq.cn/article/qEHi6k5ycwXUiasvfNKH</link>
+      <description>一个只有两条 Commit 的开源仓库，很难还原事故发生时的 ZCode</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents 成新一代造王者，开发者正在快速失去技术决定权</title>
+      <link>https://www.infoq.cn/article/bakwHvI7PTqZr4Mh45xi</link>
+      <description>智能体：新一代造王者</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%</title>
+      <link>https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov</link>
+      <description>Opus 仍是 Claude 三条主力产品线中能力最强、价格最高的一档。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>飞猪 AI Native 交付大脑：用超级流程重构需求交付｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/lRSUjSdeaHMzTTycosyT</link>
+      <description>AI 已渗透产研链路各个工种，但让这些能力沉淀为组织级的交付效率，仍是 AI Native 组织面临的重要问题。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dropbox 升级 Riviera 平台，支持 AI 工作负载</title>
+      <link>https://www.infoq.cn/article/jJAcfJO5e0ElPhIxwwxo</link>
+      <description>Dropbox 把 Riviera 由文件预览服务发展成可支持 300 + 文件格式、百余种转换能力的通用内容处理平台。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年的云栖，阿里给 AI 行业递了一把新尺子</title>
+      <link>https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r</link>
+      <description>智能价值密度 = 单任务价值 × Token 生产效率 × Token 单位能力。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin</title>
+      <link>https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX</link>
+      <description>Shopify 近期宣布放弃 React Native，使用 Swift 和 Kotlin 重写其旗舰应用。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数百亿向量怎么搜？Pinterest 抛弃“内存大户”HNSW，转向量化 SPANN</title>
+      <link>https://www.infoq.cn/article/rB0WGcG9iLIRH3xZojY5</link>
+      <description>从内存大户 HNSW 到量化 SPANN：Pinterest Manas 平台的技术演进。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>大语言模型：下一代 DSL 编写者</title>
+      <link>https://www.infoq.cn/article/fZRdzxQYpaTS2sQSqpVk</link>
+      <description>本文作者提出了类型化领域锚定方法：将领域特定语言嵌入主流类型语言，以此减轻大模型在 DSL 生成任务中的幻觉问题。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限</title>
+      <link>https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk</link>
+      <description/>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷</title>
+      <link>https://www.infoq.cn/news/3rXojuNPmJANFv8iWqI8</link>
+      <description>今年云栖大会上发布了 HappyWorld-Bench，它想把世界模型行业的试卷统一起来。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>4096 张卡如何成为“一台计算机”？读懂华为的超节点布局</title>
+      <link>https://www.infoq.cn/news/uG1Um83JFgz2BVxWRYC9</link>
+      <description>9 月 17 日，华为正式发布昇腾 960 超节点，是全球首个采用 NPO 技术的超节点，支持 4096 卡，主要面向十万亿参数规模大模型的训练和推理。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>单个机柜到底能跑多少个 Agent？答案不在 GPU 身上</title>
+      <link>https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY</link>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题</title>
+      <link>https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs</link>
+      <description>OpenAI 推出了一套结构化框架，用于在人工智能模型的整个生命周期（包括训练、评估、测试和部署）中追踪、调查并公开披露模型失调的案例。</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂</title>
+      <link>https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD</link>
+      <description>“这个圈子过去聚集着一批才华横溢的研究人员，如今却只剩下一群使用 LLM 的新手，写着一些连自己都不理解的破解代码。”</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型</title>
+      <link>https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E</link>
+      <description>GPT-6 Astra 成为 OpenAI 首个网络安全能力被评为“严重级”的模型。</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 测试通过缓存转码来减少存储需求</title>
+      <link>https://www.infoq.cn/article/izptFj6mjkyfd03qFHk9</link>
+      <description>Cloudflare 最近介绍了一个名为“缓存转码”（Cache Transcoding）的原型。该技术会在将符合条件的缓存内容存储到磁盘之前使用 Zstandard 对其进行压缩。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 AI 搭建内部开发者平台</title>
+      <link>https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ</link>
+      <description>智能体正成为新一代开发者平台，需要考虑设置护栏来管控操作的放行与拦截，以及借助日志、指标和链路追踪来掌握智能体的行为。</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>60 万行巨石应用 AI 重构的可验证交付工程｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r</link>
+      <description>传统依靠代码评审、补充用例和上线观察的交付方式，能够发现局部实现问题，却难以证明新系统在预期业务边界内保持了老系统的关键行为。</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题</title>
+      <link>https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR</link>
+      <description>WSO2 宣布正式推出 WSO2 Agent Manager，一款为运行于不同模型、框架和部署环境中的 AI Agent 提供集中式治理、身份管理、安全控制和运营监管能力的开源平台。</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 猛砍价，Opus 5.5 忙“变好用”：模型价格战，已经不能只看 API 定价</title>
+      <link>https://www.infoq.cn/news/VSIsPFiO2hrjBi30wDfE</link>
+      <description>竞赛升级：Agent 完成一次软件工程任务的全过程质量</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《2026 年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长 87.9%</title>
+      <link>https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds</link>
+      <description>IDC 预测，全球活跃智能体数量将从 2026 年的 7940 万个增长至 2030 年的 22.16 亿个，复合增长率达到 129.8%。</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>云栖之后，10+ 阿里 AI 实战派将亮相 QCon 上海站</title>
+      <link>https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky</link>
+      <description>共同见证 AI 如何真正“智以致用”。</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？</title>
+      <link>https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3</link>
+      <description>来自 TGO 鲲鹏会上海、苏州、北京三个分会的 16 位 TGO 学员来到 Snowflake World Tour 2026 上海站的现场。</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>比 Grok、Cursor 都狠？智谱 ZCode“偷传代码”风波升级，企业发函追责</title>
+      <link>https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe</link>
+      <description>Harness 是否会在模型任务之外执行额外操作？</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行</title>
+      <link>https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv</link>
+      <description/>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从生成内容到创造体验，多模态大模型如何改变内容生产？</title>
+      <link>https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq</link>
+      <description>迈向原生的全模态统一生成模型</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？</title>
+      <link>https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI</link>
+      <description/>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
