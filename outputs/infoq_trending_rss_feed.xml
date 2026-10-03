@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 03 Oct 2026 03:12:02 GMT</lastBuildDate>
+    <item>
+      <title>阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview</title>
+      <link>https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ</link>
+      <description>阿里巴巴开源 AI 代码评审 CLI 工具 OpenCodeReview，采用确定性流水线处理文件选取、打包、规则匹配，搭配 LLM 智能体完成动态代码分析。</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag</title>
+      <link>https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3</link>
+      <description>DoorDash 构建了一套多 Agent LLM 系统，用于自动清理代码库中不再活跃的 Feature Flag。该系统结合实时实验数据、工程师审批、隔离的 Git Worktree 和自动化验证。在针对 50 个过期 Feature Flag 的评估中，系统为其中 45 个生成了可用的 Pull Request，平均每次清理耗时 13.8 分钟，成本为 4.79 美元。相比之下，DoorDash 估计，人工完成一次清理需要 1 到 2 小时。</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个忘关的开关，与企业 Agent 的全栈技术账单</title>
+      <link>https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D</link>
+      <description/>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库</title>
+      <link>https://www.infoq.cn/news/t5i2Yv2z0LwIbK36lteR</link>
+      <description>DeepSeek 正式开源面向华为昇腾算力平台的基础设施组件</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>首发！openJiuwen workSwarm 全双工多模态 ，像聊天一样与 Agent 交互，昇腾算力原生亲和</title>
+      <link>https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N</link>
+      <description/>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 时代，技术人靠什么赢？｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf</link>
+      <description>本次分享将结合小红书技术团队在“产品工程师（PE）”实践中的探索，复盘 AI 时代技术人能力结构的变化：当 AI 不断降低技术实现的门槛，技术人的价值正在从“把技术做好”转向“把事情做成”——不仅要具备技术能力，还需要建立 Leader 思维，以及理解业务、判断价值的能力。</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI</title>
+      <link>https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9</link>
+      <description>谷歌发布 Kotlin 版 Agent Development Kit（ADK）1.0，一个用于在 Kotlin、Android 和 JVM/ 服务器应用中构建 AI 智能体的生产级框架。</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项</title>
+      <link>https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv</link>
+      <description>GitLab 扩展 GitLab Duo 自托管版本，支持微软 Foundry 模型，企业可在自选 Azure 环境内使用 GitLab 的 AI 开发能力。</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1</link>
+      <description/>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX</title>
+      <link>https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh</link>
+      <description>谷歌推出 AX，这是一个采用 Apache 2.0 许可证的开源编排器及声明式运行时，旨在执行和扩展自主 AI 代理的工作负载。</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移</title>
+      <link>https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU</link>
+      <description>那个熟悉的谷歌又回来了。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7</link>
+      <description>Snowflake 正式发布 《GTM 领导者 AI 转型蓝图》（The GTM Leader’s Blueprint for AI Transformation）。这份蓝图完整记录了 Snowflake 的销售和营销团队，如何在整个客户生命周期中利用 AI 推动营收增长，以及任何一位 GTM（Go-to-Market，市场进入）负责人都可以复用的转型框架。</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本</title>
+      <link>https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC</link>
+      <description>光靠对硬件参数救不了 AI 部署</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja</title>
+      <link>https://www.infoq.cn/article/Rgb6X5RSD1P8HQzRc0K7</link>
+      <description>本文为 Java 近期新闻，内容涉及：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja。</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>像改文字一样改语音：火山引擎全新语音内容编辑模型</title>
+      <link>https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV</link>
+      <description>说错一个词，不必重录一条片。输入原始音频，再用一句自然语言说明“要改哪里、改成什么”，语音内容编辑模型就能直接改写声音里真正说出来的话，并尽量保留原说话人的音色、语气和上下文表达。</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>意图驱动治理：分钟级实现敏感数据规模化保护｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/ZBXXP1BuZMIGusWyQZvB</link>
+      <description>可以压缩为这句，约 30 字：
+
+Snowflake 推出意图驱动治理，以 AI 原生工作流实现敏感数据规模化、持续保护。</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？</title>
+      <link>https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF</link>
+      <description>Anthropic 发布 Claude Sonnet 5.5：编程能力暴涨，但 Max 档 Token 消耗惊人</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？</title>
+      <link>https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP</link>
+      <description>在今年云栖大会的一场主题为《Agent Sandbox 助力 Agent 从 Demo 到生产级稳定运行》圆桌对谈中，来自阿里云、AMD、金山办公和前程无忧的几位嘉宾，分别从云平台、底层算力和企业实践的角度，讨论了 Agent 从 Demo 进入生产之后遇到的挑战及实战经验。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Changesets 3.0 发布：对等依赖下游包默认升补丁版本，纯 ESM 发布，安装体积缩减 88%</title>
+      <link>https://www.infoq.cn/article/JEw7578VW84g7wmh75gM</link>
+      <description>Changesets 发布 3.0 版本，是自 v2 版本发布七年来的首个大版本更新。</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf</link>
+      <description>高能力 AI 模型如今已经广泛可用。但竞争对手无法复制的，是只有你的公司才能提供的业务上下文，以及公司自身沉淀下来的学习成果。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？</title>
+      <link>https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE</link>
+      <description>座舱大模型终结“机械唤醒词”</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>可控、可测、可进化——B2B 跨境支付的 AI 驾驭实践｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw</link>
+      <description>B2B 跨境贸易天然面临“多国别、多单据、多风险”挑战：营业执照、报关单等非标文档版式各异，传统 OCR 依赖人工录入；三流一致性验证依赖碎片化数据源，隐性关联关系难以识别；交易风险审核、客服运营等环节高度依赖人力，经验难沉淀。</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp</link>
+      <description/>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊云科技无法恢复仅存储在受损的中东可用区的数据</title>
+      <link>https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0</link>
+      <description>亚马逊云科技已经告知客户，无法恢复仅存储在中东部分区域内的数据。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bun 在四个月内将 53.5 万行 Zig 代码重写为 Rust，消除了大量内存泄漏</title>
+      <link>https://www.infoq.cn/article/0x1uOEWOj16S1vNmtsuP</link>
+      <description>Bun 的创建者 Jarred Sumner 近日宣布，这款集 JavaScript/TypeScript 运行时、打包工具和包管理器于一体的工具已经从 Zig 重写为 Rust。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？</title>
+      <link>https://www.infoq.cn/article/AYXLumiEmzcCrKrRuq9B</link>
+      <description>Elastic Beanstalk 新增集群模式，在共享 EKS 集群上运行应用程序。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计安全、可扩展的人脸验证系统</title>
+      <link>https://www.infoq.cn/article/wLJHYzKDUdt5wSyZ06Fp</link>
+      <description>本文分享了一次影响很大的部署带给我们的经验教训以及由此衍生出的设计模式。我们将简单的同步模型换成了稳健的分层架构。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MariaDB 13 扩展 Oracle 兼容性，改善开发者体验与可观测性</title>
+      <link>https://www.infoq.cn/article/vWO5oOkToq5WYFE18WiB</link>
+      <description>MariaDB Community Server 版本 13.0 已达 GA（General Availability）阶段，目前已经正式稳定。此次版本带来了一系列新功能、弃用项和性能改进，包括扩展对过程式 SQL 的支持、新增 DML 能力等。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报</title>
+      <link>https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz</link>
+      <description>让模型需求更早进入芯片研发，反向定义下一代芯片。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SolidStart 2：以 Vite 8 取代 Vinxi，进入维护模式后逐步完成历史使命</title>
+      <link>https://www.infoq.cn/article/v0NAyDPc0bZ2T8HMWfv2</link>
+      <description>SolidStart 是构建在细粒度响应式库 SolidJS 之上的全栈元框架，目前已经正式发布稳定版 2.0。此次版本对底层架构进行了彻底现代化改造，以直接使用 Vite 的 Environment API 取代 Vinxi 构建层。SolidStart 的创建者 Ryan Carniato 将其描述为“基于 Vite 8 对 SolidStart 进行的一次完整现代化升级，以支持 Solid 1.x”，这一版本经过一年多的开发，并经历了 25 个 Alpha、Beta 和 Release Candidate 版本后终于发布。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
