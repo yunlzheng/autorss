@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 10 Oct 2026 03:42:25 GMT</lastBuildDate>
+    <item>
+      <title>企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP</link>
+      <description/>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH</link>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 新闻汇总：新的 OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst 和 ADK for Kotlin</title>
+      <link>https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA</link>
+      <description>本期 Java 新闻汇总主要包括：关于预编译（ahead-of-time compilation）与结构化并发（structured concurrency）的新 JEP，Jakarta CDI 5.0 与 ADK for Kotlin 1.0 的 GA 发布，2026 年 9 月版 Open Liberty，TornadoVM 与 RefactorFirst 的小版本发布，Micronaut 的维护性发布，以及 Groovy 6.0 与 Gradle 9.8 的首个发布候选版本。</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus 和 Atmosphere</title>
+      <link>https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k</link>
+      <description>本期的 Java 新闻汇总涵盖了如下主要内容：Atmosphere 4.0 的 GA 版本发布，GraalVM、Azul Payara 与 Quarkus 的小版本发布，WildFly 41 的维护性发布，Jakarta Data 与 Eclipse JNoSQL 的里程碑发布，2026 年 9 月版 Open Liberty 的 beta 发布，以及 GlassFish 8.0.4 的 Docker 镜像发布。</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用</title>
+      <link>https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef</link>
+      <description>无状态 MCP 取消亚马逊云科技服务器部署中的会话亲和性要求。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b</link>
+      <description/>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB</title>
+      <link>https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU</link>
+      <description>Cloudflare 重新设计了其 1.1.1.1 解析器所使用的 DNS 缓存的内存表示，将每个条目的基准占用空间减少了 56%，并在整个服务器集群中释放了约 100 TB 的工作集内存。</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Harness 工程打造 SRE 可控的生产环境｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2</link>
+      <description/>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL</link>
+      <description/>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云</title>
+      <link>https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE</link>
+      <description>Apple Reference Image 在传感器端为照片签名，将图像溯源的信任基础从 C2PA 转向传感器。</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件</title>
+      <link>https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D</link>
+      <description>Canvas UI 发布 35 个 HTML-in-Canvas 组件，可在实时 DOM 上叠加 WebGL 和 WebGPU 特效。</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整</title>
+      <link>https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e</link>
+      <description>iPhone Duo 发布在即，开发者却只拿到一个月适配时间。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停</title>
+      <link>https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d</link>
+      <description>但真正的领先前沿，价值反而会越来越大。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral 同时亮牌</title>
+      <link>https://www.infoq.cn/news/0wk4G4cZwbHgYdeNoQPV</link>
+      <description>西方开放模型阵营开始提速。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 刚把多 Agent 做成产品，o1 奠基人却说：1 万个 Agent 解出世界级难题，多 Agent 贡献不到 10%</title>
+      <link>https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj</link>
+      <description>一边推 Dots 全天候替你干活，一边说多 Agent 被高估：OpenAI 的左右互搏</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从依赖专家到开发者自助：一家银行的平台文化转型</title>
+      <link>https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy</link>
+      <description>在银行中构建协作式平台文化。</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码交给 AI，心流却回来了：Codex 负责人不再怀念手写时代</title>
+      <link>https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC</link>
+      <description>Tibo 发帖称，未来 28 天，每天交出一项用户能感受到的改进，交不出来，就重置使用额度。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过</title>
+      <link>https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh</link>
+      <description>Un-Mused：一个调试设置如何绕过 macOS 安全机制，攻陷 Meta 的 AI 客户端。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust</title>
+      <link>https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE</link>
+      <description>谷歌安全团队推出一种方案，用 Rust 语言替换 giflib 图像处理库中的传统 C 语言代码，旨在解决原生存在的内存漏洞。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人</title>
+      <link>https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv</link>
+      <description>AICon 北京 2026 议题征集正式启动，面向大模型与 Agent 一线实践者，寻找真正解决生产环境问题、愿意分享技术细节与实战经验的演讲嘉宾。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造</title>
+      <link>https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS</link>
+      <description>Perplexity 自研 CobbleDB 取代 DynamoDB：查询延迟降低 5 倍，云存储成本下降。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 终于能编译成原生程序了？启动快 12 倍，运行却慢 7.5 倍</title>
+      <link>https://www.infoq.cn/article/BchL2TVhSF2dwyrCogVO</link>
+      <description>Vercel Labs 发布 scriptc：将 TypeScript 编译为原生程序，不再依赖 JavaScript 引擎。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/akexM07HzNrRJzmjYNml</link>
+      <description/>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 详解从 WordPress 迁移至 EmDash 的过程</title>
+      <link>https://www.infoq.cn/article/hGCTSjQKOsqqz0lVUgfx</link>
+      <description>Cloudflare 最近发文记录了将主博客从 WordPress 迁移到 EmDash 的过程。</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Demo 到生产：AI Agent 缺的到底是什么？</title>
+      <link>https://www.infoq.cn/article/PLEWse6sEviMN99iLE93</link>
+      <description>AI Agent 自己搭还是用托管？用同一个案例看清差别。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kimi 现代高速开源治理的 AI Native 实践｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v</link>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在生产环境中保护 MCP：超越网关的纵深防御</title>
+      <link>https://www.infoq.cn/article/HZIW4QjEfV66I9CGr52R</link>
+      <description>本文提出了一种用于在生产环境中保护模型上下文协议（Model Context Protocol，MCP）部署的纵深防御方法。文章概述了四个架构控制层，分别是安全执行、管理基础设施、出站信任与语义完整性，文章主张生产安全性需要在最早的可信控制点而不是仅在网关处进行强制检查。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球扩散语言模型最大融资诞生：经纬、顺为、君联数亿元押注扩散智能 DiffuSpace</title>
+      <link>https://www.infoq.cn/news/kjPiCQV1cOO6AzaOjioR</link>
+      <description>扩散语言模型公司「DiffuSpace」完成数亿人民币融资</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧</title>
+      <link>https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61</link>
+      <description>“下一个时代并不是 Claude Code 时代。”</description>
+      <pubDate>Sat, 10 Oct 2026 03:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界</title>
+      <link>https://www.infoq.cn/article/ZxZMY50COGlUNHLSAEUo</link>
+      <description>AI 与其说是一种新的内容类型，不如说是一种新的制作能力。</description>
+      <pubDate>Sat, 10 Oct 2026 03:42:25 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

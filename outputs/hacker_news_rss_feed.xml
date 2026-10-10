@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News</title>
+    <description>Top stories from Hacker News</description>
+    <link>https://news.ycombinator.com/</link>
+    <lastBuildDate>Sat, 10 Oct 2026 03:42:25 GMT</lastBuildDate>
+    <item>
+      <title>REA Reverse – Engineer Anything</title>
+      <link>https://rea.tools/</link>
+      <description>REA Reverse – Engineer Anything</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Cloudflare acquires Deno</title>
+      <link>https://deno.com/blog/cloudflare</link>
+      <description>Cloudflare acquires Deno</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Triple-A Minesweeper</title>
+      <link>https://minesweeper.mikelacher.com/</link>
+      <description>Triple-A Minesweeper</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Our $445M Series D</title>
+      <link>https://oxide.computer/blog/our-445m-series-d</link>
+      <description>Our $445M Series D</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded</title>
+      <link>https://carrierexplode.com/</link>
+      <description>Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Can you use autoregressive diffusion to generate market data?</title>
+      <link>https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/</link>
+      <description>Can you use autoregressive diffusion to generate market data?</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Compiling Rust to readable C with Eurydice</title>
+      <link>https://lwn.net/Articles/1055211/</link>
+      <description>Compiling Rust to readable C with Eurydice</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Typesafe AI raises $870M at $7.5B</title>
+      <link>https://typesafe.ai/blog/series-ai</link>
+      <description>Typesafe AI raises $870M at $7.5B</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Pointing AI at archives found a forgotten meteorite, lost rhinos, and more</title>
+      <link>https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/</link>
+      <description>Pointing AI at archives found a forgotten meteorite, lost rhinos, and more</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Eye of Sauron: Long-Range Hidden Spy Camera Detection</title>
+      <link>https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo</link>
+      <description>Eye of Sauron: Long-Range Hidden Spy Camera Detection</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops</title>
+      <link>https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</link>
+      <description>YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: Proton Drive for Linux</title>
+      <link>https://oss.lsantos.dev/proton-drive-linux-fs/</link>
+      <description>Show HN: Proton Drive for Linux</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Atari Falcon</title>
+      <link>https://atarimuseum.nl/atari-falcon/</link>
+      <description>Atari Falcon</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Has the Autonomous Trucking Revolution Arrived?</title>
+      <link>https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/</link>
+      <description>Has the Autonomous Trucking Revolution Arrived?</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Rewriting Prime Agent in Rust</title>
+      <link>https://www.primeintellect.ai/blog/prime-agent-rust</link>
+      <description>Rewriting Prime Agent in Rust</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The role of cat eye narrowing movements in cat–human communication (2020)</title>
+      <link>https://www.nature.com/articles/s41598-020-73426-0</link>
+      <description>The role of cat eye narrowing movements in cat–human communication (2020)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>'Wallace and Gromit,' 90% Alone</title>
+      <link>https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone</link>
+      <description>'Wallace and Gromit,' 90% Alone</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Sorry, I'm in a meeting</title>
+      <link>https://iminafleeting.com/</link>
+      <description>Sorry, I'm in a meeting</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The Alchemical Transformations of the Mutus Liber (1677)</title>
+      <link>https://publicdomainreview.org/collection/mutus-liber/</link>
+      <description>The Alchemical Transformations of the Mutus Liber (1677)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>What mathematicians should know about the Lean Theorem Prover: reliability &amp; AI</title>
+      <link>https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/</link>
+      <description>What mathematicians should know about the Lean Theorem Prover: reliability &amp; AI</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: The rarest tech books and docs you've probably never read</title>
+      <link>https://readrare.com/</link>
+      <description>Show HN: The rarest tech books and docs you've probably never read</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>100+ reactions to 100+ solutions</title>
+      <link>https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/</link>
+      <description>100+ reactions to 100+ solutions</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Scam American companies are using to manipulate ingredient lists</title>
+      <link>https://twitter.com/WallStreetApes/status/2108594998656807078</link>
+      <description>Scam American companies are using to manipulate ingredient lists</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Anthropic AI model submits false tip on unsolved Philly murder</title>
+      <link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
+      <description>Anthropic AI model submits false tip on unsolved Philly murder</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Smart contracts: Ship the parachute in v1</title>
+      <link>https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c</link>
+      <description>Smart contracts: Ship the parachute in v1</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The logarithms of rational numbers have irrationality exponent 2 [pdf]</title>
+      <link>https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf</link>
+      <description>The logarithms of rational numbers have irrationality exponent 2 [pdf]</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>M7.6 Earthquake in Panama</title>
+      <link>https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive</link>
+      <description>M7.6 Earthquake in Panama</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Programming Isn't Special</title>
+      <link>https://blog.glyph.im/2026/10/programming-isnt-special.html</link>
+      <description>Programming Isn't Special</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Microsoft-Decision-1, our model for fast decision-making</title>
+      <link>https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</link>
+      <description>Microsoft-Decision-1, our model for fast decision-making</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: Let your AI agents paint big arrows, boxes and text on your screen</title>
+      <link>https://github.com/franzenzenhofer/big-arrow-on-the-screen</link>
+      <description>Show HN: Let your AI agents paint big arrows, boxes and text on your screen</description>
+      <pubDate/>
+    </item>
+  </channel>
+</rss>
