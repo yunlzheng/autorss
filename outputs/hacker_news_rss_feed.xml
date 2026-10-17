@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News</title>
+    <description>Top stories from Hacker News</description>
+    <link>https://news.ycombinator.com/</link>
+    <lastBuildDate>Sat, 17 Oct 2026 02:25:49 GMT</lastBuildDate>
+    <item>
+      <title>Tesla Roadster</title>
+      <link>https://www.tesla.com/roadster</link>
+      <description>Tesla Roadster</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Butlerian Jihad</title>
+      <link>https://dune.fandom.com/wiki/Butlerian_Jihad</link>
+      <description>Butlerian Jihad</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
+      <link>https://github.com/cobanov/PS5LM</link>
+      <description>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Claude reveals ECDSA curve origins</title>
+      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+      <description>Claude reveals ECDSA curve origins</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>FLUX 3 Image Klein</title>
+      <link>https://bfl.ai/blog/flux-3-image-klein</link>
+      <description>FLUX 3 Image Klein</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>You could have invented transformers from memory</title>
+      <link>https://alexwang.ai/posts/associative-memory/</link>
+      <description>You could have invented transformers from memory</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Waymo in Toronto</title>
+      <link>https://waymo.com/blog/2026/10/waymo-in-toronto/</link>
+      <description>Waymo in Toronto</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear</title>
+      <link>https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear</link>
+      <description>eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Flexport Is Hiring a Biz Ops Leader in Office of CEO</title>
+      <link>https://www.flexport.com/company/careers/</link>
+      <description>Flexport Is Hiring a Biz Ops Leader in Office of CEO</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Wireless magnetic millirobots that deliver medicine inside the beating heart</title>
+      <link>https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/</link>
+      <description>Wireless magnetic millirobots that deliver medicine inside the beating heart</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Designing more efficient quantum circuits with Claude</title>
+      <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
+      <description>Designing more efficient quantum circuits with Claude</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Apple ML Research: Muse Spark Open with MLX on Mac Studio</title>
+      <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+      <description>Apple ML Research: Muse Spark Open with MLX on Mac Studio</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>C++26: The New Debugging Header</title>
+      <link>https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging</link>
+      <description>C++26: The New Debugging Header</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>JPEG XL vs. AVIF for web use-cases</title>
+      <link>https://jakearchibald.com/2026/jpeg-xl-vs-avif/</link>
+      <description>JPEG XL vs. AVIF for web use-cases</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Nine-Inch Snails</title>
+      <link>https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</link>
+      <description>Nine-Inch Snails</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>I built the RealWorld app in Lean 4</title>
+      <link>https://leangineer.com/blog/realworld-in-lean/</link>
+      <description>I built the RealWorld app in Lean 4</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Monte-Carlo Simulations</title>
+      <link>https://eli.thegreenplace.net/2026/monte-carlo-simulations/</link>
+      <description>Monte-Carlo Simulations</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>How the Claude Code team does code review</title>
+      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
+      <description>How the Claude Code team does code review</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>90% of US working hours are spent on tasks not covered well by AI benchmarks</title>
+      <link>https://www.mercor.com/research/labor-index/benchmark-map/</link>
+      <description>90% of US working hours are spent on tasks not covered well by AI benchmarks</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>/dev/null: social network for developers</title>
+      <link>https://dev-null.sh</link>
+      <description>/dev/null: social network for developers</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: Gemini 4 Argon plays StarCraft</title>
+      <link>https://starskirmish.com/bench/v0-2/</link>
+      <description>Show HN: Gemini 4 Argon plays StarCraft</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>I Love Software Rendering</title>
+      <link>https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</link>
+      <description>I Love Software Rendering</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>I never authorized an integration that scans my secrets</title>
+      <link>https://github.com/home-assistant/home-assistant.io/issues/49314</link>
+      <description>I never authorized an integration that scans my secrets</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</title>
+      <link>https://calif.io/research/big-fish</link>
+      <description>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>A week on the farm with Dylan Araps</title>
+      <link>https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/</link>
+      <description>A week on the farm with Dylan Araps</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Why harnesses matter for energy (and token) efficiency</title>
+      <link>https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</link>
+      <description>Why harnesses matter for energy (and token) efficiency</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Stolen Renoir paintings found hidden, and damaged, behind cinder block wall</title>
+      <link>https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/</link>
+      <description>Stolen Renoir paintings found hidden, and damaged, behind cinder block wall</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: Wonderhop – A daily game: guess what most people say, or what none do</title>
+      <link>https://wonderhop.io/en/</link>
+      <description>Show HN: Wonderhop – A daily game: guess what most people say, or what none do</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>What on Earth Is Dekton?</title>
+      <link>https://www.worksinprogress.news/p/porcelain</link>
+      <description>What on Earth Is Dekton?</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>What was a Token Ring network?</title>
+      <link>https://dfarq.homeip.net/what-was-a-token-ring-network/</link>
+      <description>What was a Token Ring network?</description>
+      <pubDate/>
+    </item>
+  </channel>
+</rss>
