@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Trending</title>
+    <description>Daily trending repositories on GitHub</description>
+    <link>https://github.com/trending</link>
+    <lastBuildDate>Sat, 24 Oct 2026 02:45:54 GMT</lastBuildDate>
+    <item>
+      <title>cloudflare/security-audit-skill</title>
+      <link>https://github.com/cloudflare/security-audit-skill</link>
+      <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>php/php-src</title>
+      <link>https://github.com/php/php-src</link>
+      <description>The PHP Interpreter</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA/OpenShell</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Renhuai123/ziwei-doushu</title>
+      <link>https://github.com/Renhuai123/ziwei-doushu</link>
+      <description>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SnailSploit/Claude-Red</title>
+      <link>https://github.com/SnailSploit/Claude-Red</link>
+      <description>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBMB/VoxCPM</title>
+      <link>https://github.com/OpenBMB/VoxCPM</link>
+      <description>VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>nodejs/node</title>
+      <link>https://github.com/nodejs/node</link>
+      <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+      <pubDate>Sat, 24 Oct 2026 02:45:54 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

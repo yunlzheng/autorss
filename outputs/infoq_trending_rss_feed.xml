@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 24 Oct 2026 02:46:02 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 开源最新推理框架：单集群日吞吐 155 万亿 Token，KVCache 可保存 7 天</title>
+      <link>https://www.infoq.cn/news/NBXP966Bz3eqr6Qidvaf</link>
+      <description>按谷价计算，整体收入达到每卡每小时 38 美元。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？</title>
+      <link>https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk</link>
+      <description>AI 编程开始啃最难啃的遗留系统。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 几乎停招初级员工！占比一年半骤降 33%：Agent 工时已是员工 6 倍</title>
+      <link>https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz</link>
+      <description>Anthropic 几乎不招初级工程师了。省下的培养成本，可能要过 20 年才以“无人可用”的形式被要求偿还。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akka 在 65 个开源项目中测试基于规格的 AI 交付</title>
+      <link>https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC</link>
+      <description>Akka 利用 65 个开源项目，对一种基于规格说明的 AI 辅助软件移植工作流进行了测试。</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>对话亚马逊 CTO：仍在招聘初级工程师，关注中国开放模型</title>
+      <link>https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE</link>
+      <description>新人进入团队后，不光是要写代码，还要学习与别人协作，理解复杂系统，以及判断哪些 AI 生成的代码需要仔细检查。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM</link>
+      <description>电子书《迈入智能体 AI 时代：制造业领导者实践指南》从执行层面阐述了 AI 转型的关键路径：治理方面的洞察、四阶段路线图，以及领先制造企业正在采用的投资提案框架，帮助企业从数据分散走向自主运营。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 开源面向 AI 智能体的决策模型 Clef</title>
+      <link>https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb</link>
+      <description>Cloudflare 推出开源 AI 决策模型 Clef，该模型用于从预设选项中做抉择，而非生成文本。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh</link>
+      <description>本文将深入探讨公共部门领导者分享的三条经验，了解如何弥合 AI 价值差距。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？</title>
+      <link>https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ</link>
+      <description>像对待一个初级开发者那样对待 Agent：给权限、设护栏、别让它碰生产库。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>17 岁 Kimi 前研究员陈广宇被曝投奔 Jeff Dean 创业团队，新公司正寻求 500 亿美元估值</title>
+      <link>https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1</link>
+      <description>此前已否认加入 Anthropic</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 把整个软件生态打成筛子，全栈开发者的至暗时刻</title>
+      <link>https://www.infoq.cn/article/glAvFT7PWdZ53mbgPbgC</link>
+      <description>当你引以为傲的全栈技术栈彻底沦为“漏洞全家桶”，赛博大逃杀真的开始了。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录</title>
+      <link>https://www.infoq.cn/news/2KQlziFu7oBa9Q2ZEZyr</link>
+      <description>客户云密钥是否泄露成焦点</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU</link>
+      <description/>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3</link>
+      <description>Cortex AI Gateway 是 Snowflake 面向企业 AI 基础设施打造的集中式控制平面。它通过单一端点提供受治理的模型推理、动态模型路由、MCP 工具治理、可观测性、安全护栏和成本控制能力，让平台团队能够统一查看组织内所有 AI 客户端和 Agent 的运行情况。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi</title>
+      <link>https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk</link>
+      <description>扎克伯格嫌苹果没创新，如今却联手把 8160 亿参数 AI 搬进 Mac。</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV</title>
+      <link>https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P</link>
+      <description>LingDT-Decision-1.0，提供 4B 和 27B 两个参数规模版本。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe</title>
+      <link>https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh</link>
+      <description>本文是 Java 近期新闻，内容涉及：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe。</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>金融智能分析本体：四大核心要素与五条建设路线</title>
+      <link>https://www.infoq.cn/article/Be94YQbRtbWj3pzZ9rSh</link>
+      <description>本文围绕两个问题展开：本体由哪些核心要素构成？行业有哪些建设路线、如何选型？</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌开源 Harness，支持 OpenCode 和 Codex：国内开发者接入 Jev 实测“真行”</title>
+      <link>https://www.infoq.cn/news/AD1M3mJ2SH1dJrTA1r5q</link>
+      <description>Harness 工程是否正在变得“过度”？</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？</title>
+      <link>https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN</link>
+      <description>AI 落地卡住的地方，从来不是技术，是信任和信息。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流</title>
+      <link>https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe</link>
+      <description>Cloudflare K2 基于 R2 对象存储构建事件流，生产端延迟约一秒。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“AI+ 终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb</link>
+      <description/>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust</title>
+      <link>https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS</link>
+      <description>GitHub 借助 AI 辅助重写，把支撑 Copilot CLI、Copilot 应用及 Copilot SDK 的运行时从 TypeScript/Node.js 迁移至 Rust，改写代码超 80 万行。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向 Qwen 系列模型线性注意力的高性能优化实践</title>
+      <link>https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d</link>
+      <description>自 Qwen-3.5 采用混合注意力结构以来，Qwen 系列模型的线性注意力层 GDN 在训练与推理中的开销日益显著。基于 TileLang 的高性能线性注意力算子库 FlashQLA 显著优化了预训练与端侧推理效率，本文为其背后的技术实践揭秘。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美团企业级 Agent 的平台化应用实践｜QCon 上海</title>
+      <link>https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB</link>
+      <description/>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创</title>
+      <link>https://www.infoq.cn/news/w065UmVL9EsVI6IVbBd7</link>
+      <description>IGA Pages 能够把豆包工作做出来的页面，一句话变成可以分享、可以共创的在线链接。本文用一次真实的北京红叶行程，看两个 Demo 分别怎么落地。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenCode 2.0 正式发布：一次“重大改造”，旧插件全部报废</title>
+      <link>https://www.infoq.cn/article/IK5AWDwovCu5lx3e3mhc</link>
+      <description>GitHub 21.4 万星开源 Agent 顶流 OpenCode 2.0 迎来彻底重写，代价是 1.x 插件全线报废，AI 编程正式进入“硬核运行时”竞争！</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb</link>
+      <description>本文将深入解析自适应计算（Adaptive Compute）如何实现这一目标：共享计算资源、按查询动态调整计算规模、用两个属性取代原有的 15 个以上配置项，以及支撑这一切的准入控制机制。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 能否取代渗透测试？Cloudflare 的答案是：必须套上测试框架</title>
+      <link>https://www.infoq.cn/article/R2z2kCkRHhXwGqDZeMKN</link>
+      <description>Cloudflare 使用 AI 测试框架探测并加固其 WAF。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲专家：追求 100% 技术主权，是一种天真的想法</title>
+      <link>https://www.infoq.cn/article/6L1Bqr8iNdVT6Cgq22QH</link>
+      <description>与会嘉宾：技术主权需要选择权、技能和支持。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
