@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 31 Oct 2026 03:33:20 GMT</lastBuildDate>
+    <item>
+      <title>四分之一 PR 是“AI 垃圾”！Linux 基金会发布新报告：AI 写代码快了 52%，开源维护者却更累了</title>
+      <link>https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB</link>
+      <description>AI 编程工具正在大幅缩短开发者写代码的时间，但开源社区可能正在为这种效率提升付出另一种代价。</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民</title>
+      <link>https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N</link>
+      <description>React 19.3 于 9 月 9 日在 npm 上发布，除了稳定的 View Transitions 和 Fragment Refs 外，还悄悄加入了一个规模较小但广受好评的新功能 react-dom browser() API，允许组件正式选择不进行服务器端渲染。</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时应使用 Liquid Clustering？湖仓布局策略基准测试</title>
+      <link>https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv</link>
+      <description>对于湖仓分析系统而言，并不存在一种放之四海皆准的最佳存储布局。</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中科慧灵完成数亿元 A++ 轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付</title>
+      <link>https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo</link>
+      <description>2025 年 6 月，中科慧灵曾完成由精密制造企业蓝思科技领投的近亿元 A 轮融资。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>让 AI 从需求一路干到上线，软件开发组织要变了？</title>
+      <link>https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5</link>
+      <description>事实上，AI 参与开发越深入，人类对需求和结果的判断就越重要。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock</title>
+      <link>https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg</link>
+      <description>本文是 Java 近期新闻，内容涉及：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock。</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？</title>
+      <link>https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg</link>
+      <description>今年最大的一个变化是，企业做 Agent 的门槛越来越低，但做出一个能完成任务的 Agent，与让它在业务中持续稳定运行，还存在一定的距离。因为当 Agent 数量和使用频率放大后，很多原本不显眼的问题也会跟着放大。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求</title>
+      <link>https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx</link>
+      <description>Cloudflare 启动 Cloudflare OHTTP Gateway 的封闭测试。这是一个托管端点，可以代表源服务器对 Oblivious HTTP 请求进行解密。</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程</title>
+      <link>https://www.infoq.cn/news/0tgCLAMXFiFo0Dco5P9m</link>
+      <description>扩散智能开源 Clover，重构底层网络架构</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价</title>
+      <link>https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9</link>
+      <description>技术排行榜上的胜利，并没有让谷歌免于资本市场对利润与 AI 投资回报的审视。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从三天 Demo 到一个月全员可用：小红书企业级 AI 助理 Seal 的规模化实践</title>
+      <link>https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53</link>
+      <description/>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问</title>
+      <link>https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7</link>
+      <description>不到 12 小时，研究人员通过商业软件漏洞进入 Anthropic 系统</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”</title>
+      <link>https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS</link>
+      <description>Claude Code 是 Anthropic 招股书里最亮的招牌，那 5%–7% 的“违规收入”里，有多少是中国开发者的年费？</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf</link>
+      <description>那些走在前面的组织，胜出的原因并非模型更好、预算更多，而是它们不再把智能体当作需要精心设计提示词的工具，而是开始把它们当作需要安排到具体岗位上的“员工”。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争</title>
+      <link>https://www.infoq.cn/news/EQTckj5GQQymiQES22Bo</link>
+      <description>“团队中最具影响力的工程师，也未必是传统代码测试成绩最好的人。”</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>模型好选，搜索难做：一个投研 Agent 的两年开发历程</title>
+      <link>https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb</link>
+      <description/>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>大客户直接打 1 折、模型四个月降价 80%：大模型价格战没有退路</title>
+      <link>https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa</link>
+      <description>OpenAI 用折扣挖走 Anthropic 客户，同时主力模型几个月内降价最高 80%——这场价格战，已经从企业合同打到 API 标价。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑</title>
+      <link>https://www.infoq.cn/article/Lg6RgMudjiWIVQllmz8a</link>
+      <description>从 2027 年开始，微软将把 Azure Maia 系列的部署规模扩大至数吉瓦级，使其 “成为微软各项产品和服务的主要推理系统”。支撑这一计划的架构设计对数据传输机制作出了相当详细的说明，但作为此次发布核心卖点的效率指标，却缺乏同样明确的定义。业内从业者也对此提出了质疑。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>生产级 AI：隐性故障、工程落地与智能体治理</title>
+      <link>https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo</link>
+      <description>InfoQ 线上研讨会小组探讨智能体系统落地的各类现实难题。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI+ 增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙 AI 联合创始人 沈涛分享</title>
+      <link>https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT</link>
+      <description>1024 主论坛嘉宾分享</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd</link>
+      <description>如何在赋予智能体完成任务所需权限的同时，避免授予超出需要的权限？</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性</title>
+      <link>https://www.infoq.cn/article/TusFJkx6F151otgzliu2</link>
+      <description>谷歌在 Antigravity SDK 中引入了对本地模型的支持，使开发者能够直接在自己的机器上构建和执行智能代理工作流，同时仍然可以灵活地将云端模型融入其中，用于处理更高层次的任务。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官</title>
+      <link>https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA</link>
+      <description/>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 用起来了，业务价值谁来打分？</title>
+      <link>https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v</link>
+      <description>极客时间 9 周年 x QCon 上海同行之夜，与一线实践者共探从技术到业务的落地路径</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决</title>
+      <link>https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o</link>
+      <description>亚马逊云科技推出 Strands Decider 2B 与 Strands Box，助力 AI 智能体开发。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>天数智芯公布天垓 300 实测数据：部分推理场景达到 H200 水平，端侧对标 Thor T5000</title>
+      <link>https://www.infoq.cn/news/tFaOHgBe8ENwteobTsLV</link>
+      <description>Agent 参与模型部署与 GPU 调优</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>启元 CEO 田华：启元机器人接入 WorkBuddy，不仅看见你的世界，还能走得到你身边</title>
+      <link>https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP</link>
+      <description>田华表示，从数字 AI 走向物理 AI 需要机器人本体、AI 与生态协同进化。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>概率、插座与 5000 个爱因斯坦：专访阿里云研发副总裁周琦</title>
+      <link>https://www.infoq.cn/article/5xCWuR8CMGosWrEuNbix</link>
+      <description/>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%</title>
+      <link>https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su</link>
+      <description>Instagram Direct 将其 Android 用户界面从旧版的 Android View 系统迁移到了 Jetpack Compose，从而创建了一个 AI 原生的用户界面代码库，使 AI 编码代理更容易理解、修改和维护。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样</title>
+      <link>https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT</link>
+      <description>中层技术经理该重新学写代码了，工程管理的旧规则正在失效。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

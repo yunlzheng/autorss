@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News</title>
+    <description>Top stories from Hacker News</description>
+    <link>https://news.ycombinator.com/</link>
+    <lastBuildDate>Sat, 31 Oct 2026 03:33:20 GMT</lastBuildDate>
+    <item>
+      <title>Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game</title>
+      <link>https://tng.episodle.com/</link>
+      <description>Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Cloudflare Turnstile solver library (no headless browser required)</title>
+      <link>https://github.com/chris124567/cfsolve</link>
+      <description>Cloudflare Turnstile solver library (no headless browser required)</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
+      <link>https://phorion.io/blog/offical-claude-code-vsx-compromise/</link>
+      <description>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>My favourite PowerMac is a Nintendo Wii</title>
+      <link>https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/</link>
+      <description>My favourite PowerMac is a Nintendo Wii</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Northflank Breached</title>
+      <link>https://status.northflank.com</link>
+      <description>Northflank Breached</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
+      <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
+      <description>The $6.3B Binance hack was pulled off in just 20 minutes</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Tell HN: Scribd Breached</title>
+      <link>item?id=50312756</link>
+      <description>Tell HN: Scribd Breached</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Breaking the open web won't stop the bad bots</title>
+      <link>https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/</link>
+      <description>Breaking the open web won't stop the bad bots</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: A working Nintendo in ~1GB of Qwen weights</title>
+      <link>https://github.com/dbreunig/nesformer</link>
+      <description>Show HN: A working Nintendo in ~1GB of Qwen weights</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust</title>
+      <link>https://www.firezone.dev/blog/introducing-sanstun</link>
+      <description>sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Jules Verne's Lost Novel</title>
+      <link>https://blue-continuum.com/verne-paris</link>
+      <description>Jules Verne's Lost Novel</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The oldest ice disappears and the Stone Age emerges from it</title>
+      <link>https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921</link>
+      <description>The oldest ice disappears and the Stone Age emerges from it</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Infinite Mac: BeOS</title>
+      <link>https://blog.persistent.info/2026/10/infinite-mac-beos.html</link>
+      <description>Infinite Mac: BeOS</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Double Buffering with Cloudflare Queues</title>
+      <link>https://bellone.com/technical/double-buffering-with-cloudflare-queues</link>
+      <description>Double Buffering with Cloudflare Queues</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Florilegium: Procedural Flowers in LaTeX</title>
+      <link>https://github.com/kevinraymond/florilegium</link>
+      <description>Florilegium: Procedural Flowers in LaTeX</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>The federated code forge</title>
+      <link>https://tangled.org/blog/forge/</link>
+      <description>The federated code forge</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man</title>
+      <link>https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</link>
+      <description>Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Trapped in the Technologist Factory</title>
+      <link>https://ideolalia.com/essays/trapped-in-the-technologist-factory.html</link>
+      <description>Trapped in the Technologist Factory</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Azure's Weakest Link – Five Full Cross-Tenant Compromises</title>
+      <link>https://www.binarysecurity.no/posts/2026/10/one-root-case</link>
+      <description>Azure's Weakest Link – Five Full Cross-Tenant Compromises</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Cisco gives engineer unlimited AI tokens to rewrite legacy code</title>
+      <link>https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/</link>
+      <description>Cisco gives engineer unlimited AI tokens to rewrite legacy code</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Turning a solar power system into its own backup</title>
+      <link>https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/</link>
+      <description>Turning a solar power system into its own backup</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Show HN: I rebuilt Kubernetes for ESP32 microcontrollers</title>
+      <link>https://github.com/arterialist/kube32</link>
+      <description>Show HN: I rebuilt Kubernetes for ESP32 microcontrollers</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Building an AI-native engineering org</title>
+      <link>https://twitter.com/sgondala2/status/2115832070274723875</link>
+      <description>Building an AI-native engineering org</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Tree-mounted machines connect to web app to let users knock on wood remotely</title>
+      <link>https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/</link>
+      <description>Tree-mounted machines connect to web app to let users knock on wood remotely</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Sleep framework: A new way for LLMs to retain knowledge in continual learning</title>
+      <link>https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</link>
+      <description>Sleep framework: A new way for LLMs to retain knowledge in continual learning</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Linode Security Incident</title>
+      <link>https://status.linode.com/incidents/nt58zhx3pmgm</link>
+      <description>Linode Security Incident</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>Wonderful Weather: Floods and Foreboding in 17th-Century Britain</title>
+      <link>https://publicdomainreview.org/essay/wonderful-weather/</link>
+      <description>Wonderful Weather: Floods and Foreboding in 17th-Century Britain</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>AI isn't replacing SREs, it's deskilling them</title>
+      <link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
+      <description>AI isn't replacing SREs, it's deskilling them</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>AO3 Down for Maintenance</title>
+      <link>https://www.otwstatus.org</link>
+      <description>AO3 Down for Maintenance</description>
+      <pubDate/>
+    </item>
+    <item>
+      <title>How do you take a picture of a black hole?</title>
+      <link>https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</link>
+      <description>How do you take a picture of a black hole?</description>
+      <pubDate/>
+    </item>
+  </channel>
+</rss>
