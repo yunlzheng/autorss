@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 07 Nov 2026 03:58:58 GMT</lastBuildDate>
+    <item>
+      <title>谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM</title>
+      <link>https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e</link>
+      <description>谷歌上线免费开源的 Data Agent Kit，借助 MCP 打通编码智能体与谷歌数据云服务，提供两类不同的安全防护：智能体主动校验能力、IAM 强制拒绝策略。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Token 暴涨 5000 倍之后，企业 Agent 落地还卡在哪里？</title>
+      <link>https://www.infoq.cn/article/VUmIUJ0ST9xIlPoViXmz</link>
+      <description>我国日均 Token 调用量从 2024 年初的 1000 亿，增长到 2026 年 7 月的超 500 万亿，两年增长超 5000 倍。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究发现：AI 生成代码受下游环节瓶颈制约，无法提升整体生产力</title>
+      <link>https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90</link>
+      <description>哈佛大学联合 Jellyfish 平台调研 718 家企业后发现：AI 编程助手和智能体虽能增加代码量，但受代码评审等下游环节瓶颈拖累，无法同步提升有效完工工作量。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估</title>
+      <link>https://www.infoq.cn/article/pgmES06L2MAH2TCSMhJ9</link>
+      <description>Docker 宣布，开源代理评估框架 Harbor 现已支持 Docker Sandboxes。这一变更使得每个评估任务都能在各自的微虚拟机（microVM）中运行。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 为重要开源项目新增可选安全扫描服务</title>
+      <link>https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa</link>
+      <description>Anthropic 推出免费自愿参与的开源漏洞扫描工具 OSS Scanner。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 Agent 成为数据库新用户，腾讯云如何解决“未知”的难题？</title>
+      <link>https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2</link>
+      <description>如果说 2025 年是 Agent 元年，那么今年，无疑就是 Agent 的“爆发年”。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望</title>
+      <link>https://www.infoq.cn/article/q9iebpvFozfy4bgCYUyE</link>
+      <description>每月烧掉千万美金的“算力特权”，绝不是软件工程的未来，而是一场制造 AI 垃圾代码的公关秀</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚，被李飞飞团队写进代码库的具身底座，现身乌镇峰会“上岗抓药”</title>
+      <link>https://www.infoq.cn/article/L5Q1XJbFSubVNB9DGJsl</link>
+      <description>开源 9 个月下载量突破 220 万次，斩获超 3.3 万颗 GitHubStar</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码</title>
+      <link>https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO</link>
+      <description>谷歌介绍了 Argon 11 小时无人值守运行为 ADK 代码库生成两项落地优化：长会话内存准备开销下降约 40%，冷启动包导入耗时缩短 21%。</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel Labs 开源 fx：一款专为嵌入式应用设计的 Zig 编程代理</title>
+      <link>https://www.infoq.cn/article/cNO8PCwQoZMRHhIyVDrB</link>
+      <description>Vercel Labs 已将 fx 作为开源项目发布，这是一个用 Zig 语言编写的实验性编码代理和命令行工具，以脚本化或嵌入式的方式使用，而非作为全屏终端应用程序运行。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 产品负责人 Cut Wu 官宣加入 OpenAI</title>
+      <link>https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM</link>
+      <description>Cat Wu 是 Claude Code 早期核心团队成员之一</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 AI 从“会想”走向“会干”——腾讯云与英特尔共筑 Agentic AI 执行新底座</title>
+      <link>https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4</link>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>混元 Hy4 实测：腾讯的产品基因，模型继承了几分？</title>
+      <link>https://www.infoq.cn/news/C61Q16LQIDq45l0iCCzV</link>
+      <description>实测 55 分钟开发游戏、20 分钟做策划：能干活，好产品还得靠人</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理</title>
+      <link>https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq</link>
+      <description>谷歌推出开源跨平台 GPU 计算引擎 ML Drift，面向端侧 AI 与机器学习推理场景。</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 内核也能造了？Codex 11 天写出 13.9 万行新内核，Rocky Linux 10 跑起来了</title>
+      <link>https://www.infoq.cn/article/OiyNEtFwV05opvsLTcvK</link>
+      <description>“无限 Token 也写不出操作系统”？Rocky Linux 创始人用 Codex 11 天造出新内核</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>同一个模型从 30 分到 95 分：拉开差距的不是模型，是 Harness</title>
+      <link>https://www.infoq.cn/article/C1C1DThg8z1Dy0rZAmLB</link>
+      <description>为什么 Harness 比模型本身更重要？</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答</title>
+      <link>https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q</link>
+      <description>具身智能进入部署态，智元如何打通技术与生产力之间的链条？</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon 北京</title>
+      <link>https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle</link>
+      <description>快手 AI 生成代码占比已从 25Q3 的 26% 飙升至 26Q2 的 60%，代码生成速度已非瓶颈，但 AI 代码带来的技术债呈复利式增长。</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎</title>
+      <link>https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1</link>
+      <description>这并不是一次普通的公关负责人跳槽。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力</title>
+      <link>https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN</link>
+      <description>微软正式发布官方 MCP C# SDK 2.0 版本，实现了 MCP 规范的 2026-07-28 修订版。</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>模型之外，腾讯还在补什么？</title>
+      <link>https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs</link>
+      <description>WorkBuddy、腾讯文档、ima、ADP、WAND、天籁语音大模型、TDSQL Nexa、无境、AgentHosting、Agent Runtime、TokenHub 等数十款产品集中亮相，构成了一次规模宏大的 Agent 生产力产品版图集中检阅。</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge</title>
+      <link>https://www.infoq.cn/news/QGaIWSgd9uwx2WGw0yFv</link>
+      <description/>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 教 AI 开车！百度首次披露 Apollo World 世界模型，让无人驾驶突破“不可能三角”</title>
+      <link>https://www.infoq.cn/news/tIt75FRqU2hwy4eWrOIu</link>
+      <description>百度 ApolloWorld 世界模型亮相：L4 无人车上路前，先在“平行世界”跑完完整行程</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>员工都会用一点 AI，团队下一步怎么走？</title>
+      <link>https://www.infoq.cn/article/6oGyozHwd1WjYyEGjpbk</link>
+      <description>懂 AI、用 AI、驾驭 AI、落地 AI，可以作为观察团队 AI 应用的四个层面</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频生成只是开始，AI 如何把内容做对？</title>
+      <link>https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD</link>
+      <description>————从理解用户目标到验证交付结果，Content Agent 正在重构内容创作</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建面向 Agentic 推理的下一代 LLM 推理引擎</title>
+      <link>https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC</link>
+      <description>TokenSpeed 从立项到版本迭代的完整技术路径</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行</title>
+      <link>https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS</link>
+      <description>为低端 Android 手机打造一款离线优先的 AI 编程导师。</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何把目标定得更大胆：写给 AI 使用者的实践指南</title>
+      <link>https://www.infoq.cn/article/F1ms7x7KI1p7UfocCywh</link>
+      <description>别只让 AI 帮你更快地完成任务，试着用它去实现那些你原本不敢想的目标。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP 修复了两处已遭到攻击的严重远程代码执行漏洞</title>
+      <link>https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu</link>
+      <description>最近，PHP 于 10 月 21 日发布了紧急更新，修复了两个高危漏洞——可能导致未经身份验证的远程代码执行。亚马逊表示，在补丁发布前的四天内，就有人试图利用这些漏洞。</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon 北京</title>
+      <link>https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ</link>
+      <description>过去一年多，帆软团队一边推动内部 AI 转型，一边孵化了悟帆、Dora 等 AI 产品。回头看，要把这件事做成，关键要过三关。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
