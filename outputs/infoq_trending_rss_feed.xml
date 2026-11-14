@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>InfoQ Trending</title>
+    <description>Trending news from InfoQ</description>
+    <link>https://www.infoq.cn/hotlist</link>
+    <lastBuildDate>Sat, 14 Nov 2026 04:24:41 GMT</lastBuildDate>
+    <item>
+      <title>谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4</title>
+      <link>https://www.infoq.cn/article/YiANe38yfSYitvZOtab0</link>
+      <description>从金融报告到复杂数据分析，AI 开始进入高精度知识工作。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高 92.2%</title>
+      <link>https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii</link>
+      <description>与一些仅展示基准成绩的新模型不同，谷歌此次还披露了 Gemini Decisions API 在内部产品中的应用案例。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成 PPT</title>
+      <link>https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP</link>
+      <description>Anthropic 突然杀入办公软件腹地：Claude 能参会、做表格、生成 PPT，剑指微软谷歌。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>智能体 AI 架构中记忆、知识与上下文的系统化方案</title>
+      <link>https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y</link>
+      <description>本文指出，打造可靠的智能体 AI 架构，核心是依靠上下文引擎预处理信息，区分上下文、记忆和知识，采用分层记忆、治理知识库与令牌预算机制，并给出各类架构反模式的应对方案。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV</link>
+      <description>你的 Agent 并不缺信息，它只是被信息淹没了。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent 正在终结 Pull Request？连 GitHub 也开始重新审视传统开发流程</title>
+      <link>https://www.infoq.cn/article/x0B056QFxzYEewT1Et34</link>
+      <description>当四成 PR 已由 Agent 起草，软件开发的协作规则也开始受到挑战。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>InfoQ 2026 年趋势报告：AI、ML 与数据工程</title>
+      <link>https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm</link>
+      <description>这份 InfoQ 趋势报告概述 AI、机器学习、数据工程领域的新兴技术与趋势，汇集编辑团队和外邀嘉宾的观点，研判当前技术走向以及未来一年值得关注的重点。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”</title>
+      <link>https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj</link>
+      <description>Google 与 Meta 开源 TorchTPU，为 Google TPU 带来原生 PyTorch 支持。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Datadog 推出面向 SRE 故障排查的专用 AI 模型</title>
+      <link>https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq</link>
+      <description>Datadog 推出 Scout 模型，内嵌于其 AI SRE 产品 Bits Investigation，可接收告警、读取遥测数据并推测生产故障根因。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何提升 AI 的环境可持续性</title>
+      <link>https://www.infoq.cn/article/GUXzTTTFvwWY7yx6WMyS</link>
+      <description>Charles Humble 在 GOTO Copenhagen 大会上谈到了绿色 AI，他认为可持续性应该成为顶层架构设计关注点。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>工程师招聘跌至巅峰时期一半！Manus 取消传统编程面试，产品经理开始直接写代码</title>
+      <link>https://www.infoq.cn/article/HKFSZ6a0DM97BV7FXP2t</link>
+      <description>工程师招聘减半，AI 正在改写人才标准。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Token 越烧越多，利润却没涨：李彦宏要重新设计企业组织</title>
+      <link>https://www.infoq.cn/news/JPf7ud6wuk9fYmUDoMjo</link>
+      <description>百度内部经历过什么模型训练和 Agent 开发的弯路？</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon 北京</title>
+      <link>https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd</link>
+      <description>企业差旅 Agent 的难点不只是检索文档，而是同时理解员工偏好、企业差标、审批条件与实时可订资源。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型</title>
+      <link>https://www.infoq.cn/news/P2UWjVdAmPzOBaxd0v4f</link>
+      <description>11 月 16 日，相约国泰安宁大酒店。上午共话 OPC 社区建设与高校人才协作，下午两场专场分别聚焦企业 AI 转型、AIGC 及海外电商，交流人工智能应用与就业创业新实践。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向产业决策的升级：蚂蚁数科 LingDT-Decision 首发信息抽取能力</title>
+      <link>https://www.infoq.cn/article/7wd1IyRiffi1vPz6goHS</link>
+      <description>LingDT-Decision 是蚂蚁数科推出的新型决策模型，首次在 System One 协议中集成信息抽取能力，突破传统决策模型仅支持单选 / 判断的局限，助力产业智能决策升级。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务</title>
+      <link>https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe</link>
+      <description>LinkedIn 构建了一个基于 OpenTelemetry 的遥测平台，将用户在 iOS、Android 和 Web 应用中的操作与处理这些交互的后端服务连接起来。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践</title>
+      <link>https://www.infoq.cn/article/kIw9Wp2uSgCwrsgicIZ0</link>
+      <description>通过自然语言排序与 FFT 频谱分析两个实验，可以更直观地看到 FAST Kit 在不同场景下的实际表现，以及系统级算法能力带来的性能收益。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌采用 DPoP 增强 OAuth 2.0，抵御令牌窃取与重放攻击</title>
+      <link>https://www.infoq.cn/article/FQHBH7cfSYPFUUdbmyui</link>
+      <description>谷歌 OAuth 平台新增支持 DPoP（持有证明机制），借助该 OAuth 2.0 安全方案防范令牌窃取与重放攻击。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent 从 Demo 到生产，究竟还差几步？4 周实战课来了</title>
+      <link>https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA</link>
+      <description>聚焦 Agent 从 Demo 走向生产的关键工程挑战，解析质量验收、安全防护与成本治理等核心难题，探索 Agent 从快速构建到可靠运行的实践路径。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>多云 FinOps：一种用于跨云成本优化的工程框架</title>
+      <link>https://www.infoq.cn/article/0qQcqvV13GtRKGgmsPqW</link>
+      <description>多云成本控制是一门工程学科，而非计费问题。所花费的每一美元的出站流量，都会反映出设计阶段所做的部署决策、同步频率或数据迁移模式，并产生运行时账单。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里云发布基于 AMD 第六代 EPYC 处理器的第十代 ECS 企业级实例</title>
+      <link>https://www.infoq.cn/news/xCQx0qBofJYfBdVrxVxt</link>
+      <description>Agent 正在接手越来越多的工作，一场发生在模型之外的算力升级也悄然开始。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型</title>
+      <link>https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje</link>
+      <description>谷歌发布轻量级 C++ 接口 LiteRT Tensor API，支持开发者直接为端侧构建、定制和优化机器学习模型。</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docker 呼吁通过隔离与治理保障智能体安全</title>
+      <link>https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA</link>
+      <description>Docker 发布指南，介绍当 AI 智能体在人工监督有限的情况下浏览网页、运行代码、调用工具时会产生的五大安全风险。</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价</title>
+      <link>https://www.infoq.cn/article/rFGveY8SswQhcMjroStB</link>
+      <description>黄仁勋辞任，科莱特·克雷斯出任临时 CEO，哈维·C·琼斯出任首任董事会主席。</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon 北京</title>
+      <link>https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx</link>
+      <description>游戏设计涉及玩法规则、数值平衡与交互叙事，目标开放、产物相互依赖，质量也难以通过单一指标判断。</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>给 AI 腾内存？Discord 抛弃 Electron，省 70% 内存还秒开：Windows 应用该跟进了</title>
+      <link>https://www.infoq.cn/news/MQTTu6dgGxHBZm1wOLPI</link>
+      <description>“在内存短缺的时候，终于有一家软件公司开始把内存还给用户了。”</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体</title>
+      <link>https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2</link>
+      <description>Edera 推出基于对象能力的受限权限模型，承诺将凭证与 AI 智能体工作负载隔离。</description>
+      <pubDate>Sat, 14 Nov 2026 04:24:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek Harness 日活 154 万，官方开始给插件作者发 Token：Agent 生态要靠开发者了</title>
+      <link>https://www.infoq.cn/news/Y7lTO7Q1M8oN5JhxhirK</link>
+      <description>“成为 Agent 时代的操作系统”</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定</title>
+      <link>https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB</link>
+      <description>给 Web 应用接入大模型，通常要先准备一套服务端调用链路。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>近 700 亿美元 IPO 定价突然撤回！Anthropic 最快今天路演，下周冲刺上市</title>
+      <link>https://www.infoq.cn/news/8tquwes1yGbmTeyOjOId</link>
+      <description>Anthropic 路演在即，近 700 亿美元 IPO 定价突然撤回。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
